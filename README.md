@@ -1,2 +1,3 @@
 # portscan
 Manual portscan
+Avoid 
